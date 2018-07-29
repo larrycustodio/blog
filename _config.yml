@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Larry Custodio
-  avatar: leonids-logo.png
+  avatar: #leonids-logo.png
   job: "Web Nerd"
   bio: "Frontend Engineer. I build websites, hack up quick scripts to make a more convenient web, and laugh at some 🔥memes." 
   email: hello@larrycustod.io
