@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Post: Overview"
+title:  "First Post: An Overview"
 date:   2018-07-29 15:15:07
-categories: ["miscellaneous"]
+categories: ["intro", "miscellaneous"]
 comments: false
 ---
 
