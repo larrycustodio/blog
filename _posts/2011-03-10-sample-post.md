@@ -2,7 +2,7 @@
 layout: post
 title: "Tackling on Data Structures: Stacks and Queues (Part I)" 
 date: 2018-07-29 19:48:01
-categories: ["intro", "tutorials", "python", "data-structures"]
+categories: ["programming", "python", "data-structures"]
 ---
 
 💵 💵 Let's start on the topic of stacks and queues! 💵 💵
